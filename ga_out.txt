@@ -1,0 +1,16 @@
+500:
+1/e^x
+optimal value:1176.000000
+the elapsed time:24.53236198425293
+1/x
+optimal value:1261.000000
+time:14.332257986068726
+
+
+2000:
+1/e^x
+optimal value:1136.000000
+the elapsed time:96.53209400177002
+1/x
+optimal value:1142.000000
+time:38.30751085281372
